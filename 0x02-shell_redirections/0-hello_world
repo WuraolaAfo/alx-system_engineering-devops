@@ -1,2 +1,3 @@
 #!/bin/bash
-echo -e "Hello, World\r\nnewline"
+Hello, World
+goodbye world
