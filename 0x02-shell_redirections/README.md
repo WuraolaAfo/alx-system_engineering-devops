@@ -1,2 +1,2 @@
- 0x02-shell_redirections Readme
+#!/bin/bash
  0x02-shell_redirections Readme
